@@ -91,3 +91,8 @@ Then open the notebooks:
 ```bash
 jupyter lab notebooks/
 ```
+
+--- 
+
+## License
+This project is licensed under the [MIT License](LICENSE)
