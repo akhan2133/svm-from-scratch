@@ -30,7 +30,7 @@ Using a simple 2-D “customer engagement” dataset, the solver finds:
 
 The solid line is the decision boundary.  
 The dashed lines are the margins.  
-Circled points are the support vectors — the only samples that actually define the boundary.
+Circled points are the support vectors. The only samples that actually define the boundary.
 
 ---
 
@@ -62,8 +62,8 @@ showing the dataset is fairly separable after standardization.
 
 As expected:
 
-- **small C** → wide margin, **more** support vectors  
-- **large C** → narrow margin, **fewer** support vectors  
+- **small C** -> wide margin, **more** support vectors  
+- **large C** -> narrow margin, **fewer** support vectors  
 
 This matches SVM theory.
 
